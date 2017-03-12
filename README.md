@@ -1,1 +1,1 @@
-# Angular-Flexbox
+# angular-seed

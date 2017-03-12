@@ -1,0 +1,22 @@
+{
+  "name": "angular-boilerplate",
+  "version": "1.0.0",
+  "description": "Angular Boilerplate with ui-router",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "postinstall": "bower install",
+    "start": "live-server --host=localhost --port=8000 --open=/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "boilerplate"
+  ],
+  "author": "Omar Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "live-server": "^1.2.0"
+  }
+}

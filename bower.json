@@ -1,0 +1,26 @@
+{
+  "name": "angular-boilerplate",
+  "description": "Angular Boilerplate with ui-router",
+  "main": "index.js",
+  "authors": [
+    "Omar Lopez"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "boilerplate"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.1",
+    "angular-ui-router": "^0.4.2"
+  }
+}
